@@ -1,4 +1,4 @@
-# End-to-End-ML-Classification-Heart-Disease
+# Cardiovascular Disease Classifier
 
 ### Workflow/Action Plan
 It is one of my first end to end Data Science projects
